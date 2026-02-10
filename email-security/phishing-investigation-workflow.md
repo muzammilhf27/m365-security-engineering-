@@ -27,7 +27,7 @@ This document outlines the practical approach I follow to investigating phishing
 
 ## ProTips
 
--Be proactive with Threat Intelligence
+-Be proactive.
 Leverage Threat Intelligence in Microsoft Defender to review indicators of compromise (IOCs) such as malicious domains, URLs, IPs, and file hashes. You can proactively block publicly available threat indicators before they are observed in your environment.
 
 -Safely analyse URLs and attachments
