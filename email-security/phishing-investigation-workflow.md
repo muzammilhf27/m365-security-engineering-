@@ -27,8 +27,8 @@ This document outlines the practical approach I follow to investigating phishing
 
 ## ProTips
 
--Be proactive.
-Leverage Threat Intelligence in Microsoft Defender to review indicators of compromise (IOCs) such as malicious domains, URLs, IPs, and file hashes. You can proactively block publicly available threat indicators before they are observed in your environment.
+-Be proactive,
+leverage Threat Intelligence in Microsoft Defender to review indicators of compromise (IOCs) such as malicious domains, URLs, IPs, and file hashes. You can proactively block publicly available threat indicators before they are observed in your environment.
 
 -Safely analyse URLs and attachments
 If you want to go the extra mile, use Windows Sandbox or an isolated analysis environment to safely inspect suspicious URLs or attachments without risking your production system.
