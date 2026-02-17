@@ -1,3 +1,4 @@
+```kusto
 DeviceEvents
 | where Timestamp > ago(2d)
 | where ActionType in (
@@ -24,3 +25,4 @@ DeviceEvents
     InitiatingProcessFileName,
     InitiatingProcessAccountName
 | order by Timestamp desc
+```
